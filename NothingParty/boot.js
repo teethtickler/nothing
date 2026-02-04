@@ -1,6 +1,6 @@
 const RenJSConfig =  {
   'name': 'Summer Break Nothing-Party',
-  'w': 1000,
+  'w': 800,
   'h': 600,
   'renderer': Phaser.AUTO, // become renderer
   'scaleMode': Phaser.ScaleManager.SHOW_ALL,
