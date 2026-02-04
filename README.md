@@ -1,2 +1,3 @@
-# nothing
-Summer Break Nothing-Party source code.
+# Summer Break Nothing-Party
+source code, testing, etc...
+will export for web when done for itch
